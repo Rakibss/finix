@@ -1,0 +1,33 @@
+@media all and (max-width:1400px) {
+    ul.our-primary-menu li a {
+        padding: 10px 15px;
+    }
+    .my-primaty-header .container-fluid{
+        width: 100%;
+    }
+     
+    .slider-section .container-fluid {
+        width: 100%;
+    }
+}
+@media all and (max-width:1200px) {
+    .my-primaty-header .container-fluid{
+        width: 100%;
+    }
+     
+    .slider-section .container-fluid {
+        width: 100%;
+    }
+    body .btn-primary {
+        padding: 14px 5px;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .call-info-head a {
+        font-size: 18px;
+    }
+}
+@media all and (max-width:992px) {}
+@media all and (max-width:768px) {}
+@media all and (max-width:576px) {}
+@media all and (max-width:450px) {}
